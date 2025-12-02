@@ -27,4 +27,6 @@ I currently work on improving my C++ and Java skills, and customizing Hyprland e
 ----------------------------------------------------------------------------------------------
 
 Fate is my favorite anime
-And my hobbies are play,code,draw,gym
+
+And my hobbies are Play, Code, Draw, Gym
+
